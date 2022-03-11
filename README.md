@@ -17,5 +17,6 @@ It is a package to spawn 3 turtles; one of the turtles can be controlled by arro
 3. Perform the following command to specify the source in the terminal window <br/><br/>``` source devel/setup.bash ```<br/><br/>
 4. Then run the following to launch the simulation <br/><br/>
 ``` roslaunch turtle_tf3 turtle_tf3_demo.launch ```
-
+# Nota:
+Los equipos del modulo 2 son diferentes a los equipos de reto, en este caso trabajamos con los equipos de Reto (Borregoticos) porque la actividad es parte del modulo del reto, entonces en nuestro equipo en canvas no esta nuestro compañero José Manuel Neri Villeda porque en el modulo 2 el no es del equipo. Pero colaboro con nosotros activamente, por favor agregarle su calficación con nosotros. :)
 
